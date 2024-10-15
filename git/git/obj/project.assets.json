@@ -32925,11 +32925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jesus Daniel\\Desktop\\git\\git\\git.csproj",
+      "projectUniqueName": "C:\\Users\\Jesus Daniel\\Desktop\\gitremake\\git\\git\\git.csproj",
       "projectName": "git",
-      "projectPath": "C:\\Users\\Jesus Daniel\\Desktop\\git\\git\\git.csproj",
+      "projectPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitremake\\git\\git\\git.csproj",
       "packagesPath": "C:\\Users\\Jesus Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jesus Daniel\\Desktop\\git\\git\\obj\\",
+      "outputPath": "C:\\Users\\Jesus Daniel\\Desktop\\gitremake\\git\\git\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

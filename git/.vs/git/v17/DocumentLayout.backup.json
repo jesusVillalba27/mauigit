@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Jesus Daniel\\Desktop\\git\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBA4D6E-C918-4C2C-8060-5EA933518222}|git\\git.csproj|c:\\users\\jesus daniel\\desktop\\git\\git\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4EBA4D6E-C918-4C2C-8060-5EA933518222}|git\\git.csproj|solutionrelative:git\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jesus Daniel\\Desktop\\git\\git\\MainPage.xaml",
+              "RelativeDocumentMoniker": "git\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Jesus Daniel\\Desktop\\git\\git\\MainPage.xaml",
+              "RelativeToolTip": "git\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-15T03:18:36.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
