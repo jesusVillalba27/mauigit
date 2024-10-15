@@ -11,10 +11,14 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.git")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "git")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("git")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec87e5dce28bf60b56a38c53bce9340b9ea8183e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e9e2e2daec97c39d5584d0422683ae491983db04")]
 [assembly: System.Reflection.AssemblyProductAttribute("git")]
 [assembly: System.Reflection.AssemblyTitleAttribute("git")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
